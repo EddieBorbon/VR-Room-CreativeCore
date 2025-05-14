@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.meta.xr.sdk.all": "68.0.1",
+    "com.meta.xr.sdk.all": "74.0.3",
     "com.unity.burst": "1.8.17",
     "com.unity.cinemachine": "2.10.1",
     "com.unity.collab-proxy": "2.5.1",
